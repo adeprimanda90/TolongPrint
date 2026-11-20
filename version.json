@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "build": 1,
+  "releaseStage": "Pengembangan Tahap 2 — Multi-Lokasi, Auto-Update & Panduan",
+  "releaseDate": "20 Nov 2026",
+  "changelog": "- Rilis awal TolongPrint dengan fitur Auto-Update online\n- Halaman Info & 6 Panduan Tutorial interaktif\n- Dukungan cetak nota SPBU multi-lokasi & mode Thermer",
+  "downloadURL": ""
+}
